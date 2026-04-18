@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  fitness aaa
+//  fitness
 //
 //  Created by 鬼頭拓万 on 2023/11/23.
 //  
